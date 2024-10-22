@@ -1,0 +1,29 @@
+.home-hero {
+    background-image: url('/path-to-your-hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: var(--color-text-light);
+  }
+  
+  .home-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .home-cta {
+    background-color: var(--color-secondary);
+    color: var(--color-text-light);
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-cta:hover {
+    background-color: var(--color-primary);
+  }
