@@ -1,4 +1,4 @@
-# Hot Wheels Store Website
+# Hot Wheels Toy Store Website
 
 This is a responsive website project for a Hot Wheels toy car store developed using React.
 
